@@ -12,6 +12,7 @@
 2. Stage related changes
     *git add / git rm
 3. Commit changes with message
+    *Commit changes with message
 
 ## Commands
 
@@ -19,3 +20,4 @@
 * add -> add a file to the stage 
 *rm --chached -> remove file from stage
 git commit -m "Present tense description of what changed"
+* git commit -m "Message
