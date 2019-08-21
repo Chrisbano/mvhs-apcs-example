@@ -22,3 +22,7 @@
 git commit -m "Present tense description of what changed"
 * git commit -m "Message
 *git log -> enter to move down, q to quit
+
+## Problems 
+
+* commit without -m -> use Esc :wq to quit vm
