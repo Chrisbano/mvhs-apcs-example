@@ -29,3 +29,5 @@ git commit -m "Present tense description of what changed"
 * commit without -m -> use Esc :wq to quit vm
 * wrong message -> git commit --amend -m "new message"
 
+sdsvsvoviii
+
