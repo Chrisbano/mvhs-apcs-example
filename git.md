@@ -21,3 +21,4 @@
 *rm --chached -> remove file from stage
 git commit -m "Present tense description of what changed"
 * git commit -m "Message
+*git log -> enter to move down, q to quit
